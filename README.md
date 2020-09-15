@@ -13,7 +13,7 @@ The Password Generator app is implemented by using dynamically updated HTML and 
  
    Arrays and Variables: https://drive.google.com/drive/folders/1k9bun98EICcVnRI7dNose2bwm7V42zFO
 
-- The prompts presented to the user are as seen below. These prompts were created in order to determine the criteria that the user wanted to include in their password.
+- The prompts presented to the user are as seen below. These prompts were created in order to determine the criteria that the user wanted to include in their password. If the user does not input at least 8 to 128 characters, they cannot move forward and will receive an alert that says "Your password must contain at least 8 to 128 characters. Please try again." This will create a 'while loop' that brings them back to the initial prompt of "How many characters would you like your password to contain?" Once the user inputs a number between 8 and 128, they can move forward with the other prompts.
 
    Password Prompts: https://drive.google.com/drive/folders/1k9bun98EICcVnRI7dNose2bwm7V42zFO
 
