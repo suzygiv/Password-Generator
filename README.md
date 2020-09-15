@@ -25,8 +25,5 @@ The Password Generator app is implemented by using dynamically updated HTML and 
 
    Password 'For Loop': https://drive.google.com/drive/folders/1k9bun98EICcVnRI7dNose2bwm7V42zFO
 
-### CSS & Bootstrap
 
-- Each and every page is 100% css and boostrap.
-- All images and layouts are responsive - some components that I used from Bootstrap are Cards, Forms and Navbar. 
-
+Here is the link to my GoogleDrive for images above: https://drive.google.com/drive/folders/1k9bun98EICcVnRI7dNose2bwm7V42zFO?usp=sharing
