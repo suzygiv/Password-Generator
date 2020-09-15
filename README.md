@@ -8,6 +8,8 @@ The Password Generator app is implemented by using dynamically updated HTML and 
 
 ### How Does The Password Generator App Work?
 
+Here is the Password Generator app: https://drive.google.com/drive/folders/1k9bun98EICcVnRI7dNose2bwm7V42zFO
+
 - The user must click the "generate a password" button to begin the process. In order to generate the button, I had to create a variable called "generateBtn" that links back to the html button - var generateBtn = document.querySelector("#generate");
 - Once the user clicks the button, they will be presented with a series of prompts for the password criteria. In order to create these prompts, I first had to create various arrays and variables for each of the criteria. 
  
