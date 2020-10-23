@@ -1,4 +1,4 @@
-<h1 align="center">Password Generator</h1>
+# Password Generator
 
 ## Description
 
