@@ -4,7 +4,6 @@ var generateBtn = document.querySelector("#generate");
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-
 // Various Arrays 
 var number = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var specialChar = ["!", "%", "&", ",", "*", "+", "-", ".", "/", "<", ">", "?","~"];
@@ -21,8 +20,8 @@ var confirmLowerCase;
 // Prompt to confirm how many characters the user would like in their password
 function generatePassword() {
   var confirmPasswordLength = (prompt("How many characters would you like your password to contain?"));
-
-  // Loop if answer is outside the parameters 
+  
+  // Loop if answer is outside the criteria 
   while(confirmPasswordLength < 8 || confirmPasswordLength > 128) {
       alert("Your password must contain at least 8 to 128 characters. Please try again.");
       var confirmPasswordLength = (prompt("How many characters would you like your password to contain?"));
