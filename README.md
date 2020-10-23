@@ -34,6 +34,8 @@ Password 'If' Statements:
 
 ![Password If Statements screenshot](https://github.com/suzygiv/Password-Generator/blob/master/Assets/Password%20If%20Statements.PNG)
 
+![Password Criteria screenshot](https://github.com/suzygiv/Password-Generator/blob/master/Assets/Password%20Criteria.PNG)
+
 - After the 'If' statements, the code will go through a 'for loop' which will spit out the desired password chosen by the user based on the criteria above. 
 
 Password 'For Loop': 
@@ -42,6 +44,9 @@ Password 'For Loop':
 
 - Finally, the user should receive a password that meets their desired criteria, which is the desired password length (between 8 to 128 characters) and if they desire numeric characters and/or special characters and/or lowercase characters and/or uppercase characters.
    
+Password Output:
+
+![Password Output screenshot](https://github.com/suzygiv/Password-Generator/blob/master/Assets/Password%20Output.PNG)
 
 
 ## License
