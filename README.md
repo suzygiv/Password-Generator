@@ -2,7 +2,7 @@
 
 ## Description
 
-The Password Generator app is implemented by using dynamically updated HTML and CSS powered by my JavsScript code. 
+The Password Generator app is implemented by using dynamically updated HTML and CSS powered by my JavaScript code. 
 
 ## Link to the Password Generator App
 https://suzygiv.github.io/Password-Generator/
